@@ -1,8 +1,16 @@
- Hi ![image](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My Name is Nachiket
- ==============================================================================================================================
- 
- Data Science Enthusiast
- ---------------
+<h3 align="center">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Welcome to Nachiket Dhampalwar's profile
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+<!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
+    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Data-Science+Enthusiast;Learning+Data+Science;Nice+To+Meet+You+...&center=true"></a>
+
+</p>
+
+<!-- Badges template - https://github.com/badges/shields -->
  
 19 | Artificial intelligence and data science student
 
