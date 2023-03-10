@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @nachiket1010
-- 👀 I love travelling
-- 🌱 I’m currently learning c++
-- 📫 How to reach me instagram @____nachiket_____
-- 📫 How to reach me Twitter @NachiketDhampa1
+- 👀 A Data Science Enthusiast
+- 🌱 I’m currently learning Python,SQL,C++
 - 🎓 Currently Pursuing In Second Year Artificial Intelligence And Data Science
+- 📫 How to reach me on LinkedIn @ Nachiket Dhampalwar
