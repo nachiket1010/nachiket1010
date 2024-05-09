@@ -12,7 +12,7 @@
 
 <!-- Badges template - https://github.com/badges/shields -->
  
-19 | Artificial intelligence and data science student
+20 | Artificial intelligence and data science student
 
 - 🌍 I'm based in Pune, Maharashtra
 - ✉️  You can contact me at nachiketdhampalwar@gmail.com
